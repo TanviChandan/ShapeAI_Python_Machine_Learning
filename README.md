@@ -1,9 +1,5 @@
-Edit with the Docs app
-Make tweaks, leave comments and share with others to edit at the same time.
-NO, THANKSUSE THE APP
 
-Python and Machine Learning ReadMe
-# DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
+DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 
@@ -54,4 +50,5 @@ be</a>
 <li><a href=
 
 "https://github.com/shapeai">GitHub</a>
+
 
